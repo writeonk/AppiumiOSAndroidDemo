@@ -1,10 +1,10 @@
 ### Appium iOS Demo
 Appium +iOs driver + Java + POM+ Extent Report +Log4j2 + Maven
 
-###For iOs & Android Applications
+### For iOs & Android Applications
 Install Appium Studio https://experitest.com/mobile-test-automation/appium-studio/
 
-###Architecture for Maven + Appium Project
+### Architecture for Maven + Appium Project
 Java
 Appium Driver
 Maven project Architecture - POM
